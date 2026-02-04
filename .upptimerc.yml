@@ -20,12 +20,8 @@ sites:
     url: https://dyndata.chaotic.art
   - name: ODA Service
     url: https://oda.chaotic.art
-  - name: Playground Service
-    url: https://playground.chaotic.art
   - name: Playground Bucket Service
-    url: https://playground-bucket.chaotic.art
-  - name: CORS Proxy Service
-    url: https://cors-proxy.chaotic.art
+    url: https://playground-bucket.chaotic.art/codeChecker/04a8f6c9-07b0-40ec-88ab-e6c8789c9fe4.html?hash=0xdb736faf90adce01428200c2232bc6d9ecfb539d1d2f8451921a65c9e1cb567e
   - name: NFT Storage (IPOS)
     url: https://ipos.chaotic.art
 
