@@ -58,19 +58,19 @@
     "url": "https://profile.chaotic.art",
     "icon": "https://icons.duckduckgo.com/ip3/profile.chaotic.art.ico",
     "slug": "profile-service",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "status": "up",
+    "uptime": "95.87%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2026-02-04": 1
+      "2026-02-04": 28
     }
   },
   {
