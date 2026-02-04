@@ -1,31 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: chaotic-art # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # App Domain
+  - name: Chaotic Art
+    url: https://chaotic.art
+
+  # Services
+  - name: Price Service
+    url: https://price.chaotic.art
+  - name: Genart Service
+    url: https://genart.chaotic.art
+  - name: Profile Service
+    url: https://profile.chaotic.art
+  - name: Bucket Service
+    url: https://bucket.chaotic.art/
+  - name: Dyndata Service
+    url: https://dyndata.chaotic.art
+  - name: ODA Service
+    url: https://oda.chaotic.art
+  - name: Playground Service
+    url: https://playground.chaotic.art
+  - name: Playground Bucket Service
+    url: https://playground-bucket.chaotic.art
+  - name: CORS Proxy Service
+    url: https://cors-proxy.chaotic.art
+  - name: NFT Storage (IPOS)
+    url: https://ipos.chaotic.art
+
+  # GraphQL Endpoints
+  - name: GraphQL AHK
+    url: https://ahk.gql.api.kodadot.xyz/
+  - name: GraphQL AHP
+    url: https://ahp.gql.api.kodadot.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: status.chaotic.art
+  baseUrl: /uptime
+  logoUrl: https://raw.githubusercontent.com/chaotic-art/uptime/master/assets/upptime-icon.svg
+  name: Chaotic Art Status
+  introTitle: "**Chaotic Art** Service Status"
+  introMessage: Real-time status monitoring for Chaotic Art services powered by [Upptime](https://upptime.js.org).
   navbar:
     - title: Status
       href: /
