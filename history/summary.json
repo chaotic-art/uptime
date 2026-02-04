@@ -58,18 +58,20 @@
     "url": "https://profile.chaotic.art",
     "icon": "https://icons.duckduckgo.com/ip3/profile.chaotic.art.ico",
     "slug": "profile-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-04": 1
+    }
   },
   {
     "name": "Bucket Service",
