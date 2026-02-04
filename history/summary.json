@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground-bucket.chaotic.art.ico",
     "slug": "playground-bucket-service",
     "status": "up",
-    "uptime": "1.52%",
-    "uptimeDay": "1.52%",
-    "uptimeWeek": "1.52%",
-    "uptimeMonth": "1.52%",
-    "uptimeYear": "1.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 311,
     "timeWeek": 311,
     "timeMonth": 311,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2026-02-04": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NFT Storage (IPOS)",
