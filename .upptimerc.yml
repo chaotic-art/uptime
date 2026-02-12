@@ -36,18 +36,18 @@ sites:
     url: https://chaotic-ahp.stellate.sh/
 
   # GraphQL Endpoints (POST)
-  - name: Speck GraphQL (POST)
-    url: https://chaotic.squids.live/speck@v16/api/graphql
-    method: POST
-    headers:
-      Content-Type: application/json
-    body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
-  - name: Stick GraphQL (POST)
-    url: https://chaotic.squids.live/stick@v14/api/graphql
-    method: POST
-    headers:
-      Content-Type: application/json
-    body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
+  # - name: Speck GraphQL (POST)
+  #   url: https://chaotic.squids.live/speck@v16/api/graphql
+  #   method: POST
+  #   headers:
+  #     Content-Type: application/json
+  #   body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
+  # - name: Stick GraphQL (POST)
+  #   url: https://chaotic.squids.live/stick@v14/api/graphql
+  #   method: POST
+  #   headers:
+  #     Content-Type: application/json
+  #   body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
   - name: Stellate AHK (POST)
     url: https://chaotic-ahk.stellate.sh/
     method: POST
