@@ -26,10 +26,10 @@ sites:
     url: https://ipos.chaotic.art
 
   # GraphQL Endpoints
-  - name: Speck GraphQL
-    url: https://chaotic.squids.live/speck@v16/api/graphql
-  - name: Stick GraphQL
-    url: https://chaotic.squids.live/stick@v14/api/graphql
+  # - name: Speck GraphQL
+  #   url: https://chaotic.squids.live/speck@v16/api/graphql
+  # - name: Stick GraphQL
+  #   url: https://chaotic.squids.live/stick@v14/api/graphql
   - name: Stellate AHK
     url: https://chaotic-ahk.stellate.sh/
   - name: Stellate AHP
