@@ -30,10 +30,10 @@ sites:
   #   url: https://chaotic.squids.live/speck@v16/api/graphql
   # - name: Stick GraphQL
   #   url: https://chaotic.squids.live/stick@v14/api/graphql
-  - name: Stellate AHK
-    url: https://chaotic-ahk.stellate.sh/
-  - name: Stellate AHP
-    url: https://chaotic-ahp.stellate.sh/
+  # - name: Stellate AHK
+  #   url: https://chaotic-ahk.stellate.sh/
+  # - name: Stellate AHP
+  #   url: https://chaotic-ahp.stellate.sh/
 
   # GraphQL Endpoints (POST)
   # - name: Speck GraphQL (POST)
@@ -48,18 +48,18 @@ sites:
   #   headers:
   #     Content-Type: application/json
   #   body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
-  - name: Stellate AHK (POST)
-    url: https://chaotic-ahk.stellate.sh/
-    method: POST
-    headers:
-      Content-Type: application/json
-    body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
-  - name: Stellate AHP (POST)
-    url: https://chaotic-ahp.stellate.sh/
-    method: POST
-    headers:
-      Content-Type: application/json
-    body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
+  # - name: Stellate AHK (POST)
+  #   url: https://chaotic-ahk.stellate.sh/
+  #   method: POST
+  #   headers:
+  #     Content-Type: application/json
+  #   body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
+  # - name: Stellate AHP (POST)
+  #   url: https://chaotic-ahp.stellate.sh/
+  #   method: POST
+  #   headers:
+  #     Content-Type: application/json
+  #   body: '{"query":"{ squidStatus { height hash finalizedHeight finalizedHash } }"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
