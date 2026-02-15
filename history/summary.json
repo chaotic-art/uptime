@@ -132,18 +132,20 @@
     "url": "https://playground-bucket.chaotic.art/codeChecker/04a8f6c9-07b0-40ec-88ab-e6c8789c9fe4.html?hash=0xdb736faf90adce01428200c2232bc6d9ecfb539d1d2f8451921a65c9e1cb567e",
     "icon": "https://icons.duckduckgo.com/ip3/playground-bucket.chaotic.art.ico",
     "slug": "playground-bucket-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 200,
-    "timeWeek": 199,
-    "timeMonth": 242,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 235,
+    "timeDay": 163,
+    "timeWeek": 192,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NFT Storage (IPOS)",
