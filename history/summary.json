@@ -4,9 +4,9 @@
     "url": "https://chaotic.art",
     "icon": "https://icons.duckduckgo.com/ip3/chaotic.art.ico",
     "slug": "chaotic-art",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1137,
     "timeMonth": 1403,
     "timeYear": 1403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 0
+    }
   },
   {
     "name": "Price Service",
@@ -133,13 +135,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/playground-bucket.chaotic.art.ico",
     "slug": "playground-bucket-service",
     "status": "up",
-    "uptime": "91.96%",
-    "uptimeDay": "50.90%",
+    "uptime": "92.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "85.45%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "91.96%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "92.30%",
     "time": 229,
-    "timeDay": 235,
+    "timeDay": 211,
     "timeWeek": 211,
     "timeMonth": 229,
     "timeYear": 229,
