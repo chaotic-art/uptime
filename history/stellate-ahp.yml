@@ -1,7 +1,7 @@
 url: https://chaotic-ahp.stellate.sh/
-status: up
-code: 204
-responseTime: 346
-lastUpdated: 2026-02-23T23:25:52.595Z
+status: down
+code: 500
+responseTime: 265
+lastUpdated: 2026-02-24T15:40:47.850Z
 startTime: 2026-02-12T07:11:03.572Z
 generator: Upptime <https://github.com/upptime/upptime>
