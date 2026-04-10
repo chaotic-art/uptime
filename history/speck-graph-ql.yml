@@ -1,7 +1,7 @@
 url: https://chaotic.squids.live/speck@v16/api/graphql
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-10T15:37:43.484Z
+status: up
+code: 200
+responseTime: 710
+lastUpdated: 2026-04-10T16:34:43.262Z
 startTime: 2026-02-12T07:13:17.761Z
 generator: Upptime <https://github.com/upptime/upptime>
